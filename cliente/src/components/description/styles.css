@@ -1,0 +1,28 @@
+.description-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 8px;
+  max-width: 30%;
+}
+
+.description-text-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 8px;
+}
+
+.description-text-container h3 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-align: center;
+  margin: 0;
+}
+
+.description-text-container p {
+  font-size: 1.2rem;
+  text-align: center;
+}

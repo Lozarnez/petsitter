@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "lozarnez",
+    "password": "admin123",
+    "database": "PetSitter",
+    "host": "127.0.0.1",
+    "dialect": "mssql"
+  }
+}
